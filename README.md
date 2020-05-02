@@ -5,6 +5,6 @@
   # About the project 🐶
  
  This project was done during an omnistack week, creating a page for Animal "Ongs" 
- Thanks to 🚀 [Rocketseat](https://github.com/Rocketseat)
+  Thanks to 🚀 [Rocketseat](https://github.com/Rocketseat)
  
 Made by Rafael Linhares 👉 [Linkedin](https://www.linkedin.com/in/rafael-linhares-js/)
